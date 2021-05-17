@@ -12,7 +12,7 @@ import org.uresti.pozarreal.repository.StreetRepository;
 import org.uresti.pozarreal.service.StreetsService;
 
 @Service
-public class StreetServiceImpl implements StreetsService {
+public class  StreetServiceImpl implements StreetsService {
 
     private final StreetRepository streetRepository;
 
